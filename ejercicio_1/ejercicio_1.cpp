@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip> // Para setprecision
+#include <iomanip>
 
 using namespace std;
 
